@@ -18,3 +18,35 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+li {
+  list-style: none;
+}
+
+input {
+  border-color: blue;
+}
+
+.country-item,
+.top {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  font-weight: bold;
+}
+
+.country {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+
+.text {
+  font-weight: 400;
+}
+
+img {
+  margin-right: 10px;
+}
